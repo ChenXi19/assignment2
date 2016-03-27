@@ -1,5 +1,4 @@
 # assignment2
-## [Assignment_2](https://github.com/ChenXi19/computational_physics_assignments_2013301020092/blob/master/2.1.py)
 ---
 * Abstract <br>
 This assignment is a display of several codings of different deepth-which use ASCII to show letters on the screen.
