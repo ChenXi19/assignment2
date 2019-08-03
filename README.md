@@ -7,7 +7,7 @@ This assignment is a display of several codings of different deepth-which use AS
 
 Background Information 
 ---
-ASCII abreviated form American Standard Code for Information Interchange, is a character-encoding scheme to represent text in computers, communication equipment, and other devices that use text. Originally based on the Englishalphabet, ASCII encodes 128 specified characters into seven-bit integers, consisting only 0 and 1. The characters encoded are numbers from 0 to 9, lowercase letters from a to z, uppercase letters from A to Z, basic punctuation symbols and space. ([More information on ASCII](https://en.wikipedia.org/wiki/ASCII))
+ASCII abbreviated form American Standard Code for Information Interchange, is a character-encoding scheme to represent text in computers, communication equipment, and other devices that use text. Originally based on the Englishalphabet, ASCII encodes 128 specified characters into seven-bit integers, consisting only 0 and 1. The characters encoded are numbers from 0 to 9, lowercase letters from a to z, uppercase letters from A to Z, basic punctuation symbols and space. ([More information on ASCII](https://en.wikipedia.org/wiki/ASCII))
 
 
 Details of This Assignment 
